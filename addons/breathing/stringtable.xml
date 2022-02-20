@@ -37,8 +37,11 @@
             <Turkish>Ölümcül SpO2 değerini etkinleştir</Turkish>
             <Italian>Attivare il valore letale di SpO2</Italian>
         </Key>
-        <Key ID="STR_kat_breathing_SETTING_Multiply">
-            <English>Multiplier for all SpO2 values.</English>
+        <Key ID="STR_kat_breathing_SETTING_MultiplyPositive">
+            <English>SpO2 positive multiplier</English>
+        </Key>
+	    <Key ID="STR_kat_breathing_SETTING_MultiplyNegative">
+            <English>SpO2 negative multiplier</English>
         </Key>
         <Key ID="STR_kat_breathing_SETTING_pneumothorax">
             <English>Probability for a pneumothorax</English>
