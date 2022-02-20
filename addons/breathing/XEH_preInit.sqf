@@ -99,6 +99,16 @@ PREP_RECOMPILE_END;
     true
 ] call CBA_settings_fnc_init;
 
+//Allow ChestSeal SelfTreatment
+[
+    QGVAR(enable_selfChestseal),
+    "LIST",
+    LLSTRING(SETTING_SELF_CHESTSEAL),
+    CBA_SETTINGS_CAT,
+    [[0, 1], ["STR_ACE_common_No", "STR_ACE_common_Yes"], 1],
+    true
+] call CBA_Settings_fnc_init;
+
 // % Chance of Hemopneumothorax
 [
     QGVAR(hemopneumothoraxChance),
