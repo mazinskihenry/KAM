@@ -58,6 +58,16 @@ PREP_RECOMPILE_END;
     true
 ] call CBA_Settings_fnc_init;
 
+// SpO2 value for stability determination
+[
+    QGVAR(Stable_spo2),
+    "SLIDER",
+    [LLSTRING(SETTING_STABLE_SPO2), LLSTRING(DESCRIPTION_STABLE_SPO2)],
+    CBA_SETTINGS_CAT,
+    [0, 95, 85, 0],
+    true
+] call CBA_Settings_fnc_init;
+
 // breathing probability for a pneumothorax
 // a pneumothorax is the presence of air or gas in the cavity between the lungs and the chest wall
 [
