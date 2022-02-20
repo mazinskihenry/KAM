@@ -38,13 +38,23 @@ PREP_RECOMPILE_END;
     true
 ] call CBA_Settings_fnc_init;
 
-// breathing SpO2 add & remove value small
+// breathing SpO2 add value
 [
-    QGVAR(SpO2_Multiply),
+    QGVAR(SpO2_MultiplyPositive),
     "SLIDER",
-    LLSTRING(SETTING_Multiply),
+    LLSTRING(SETTING_MultiplyPositive),
     CBA_SETTINGS_CAT,
-    [0, 3, 1, 1],
+    [0, 10, 1, 1],
+    true
+] call CBA_Settings_fnc_init;
+
+// breathing SpO2 remove value
+[
+    QGVAR(SpO2_MultiplyNegative),
+    "SLIDER",
+    LLSTRING(SETTING_MultiplyNegative),
+    CBA_SETTINGS_CAT,
+    [0, 10, 1, 1],
     true
 ] call CBA_Settings_fnc_init;
 
