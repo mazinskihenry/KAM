@@ -349,6 +349,9 @@
             <Turkish>Chest Seal kullanmak için gerekli eğitim seviyesi</Turkish>
             <Italian>Livello d'addestramento rischiesto per utilizzare il Chest Seal</Italian>
         </Key>
+	    <Key ID="STR_kat_breathing_SETTING_SELF_CHESTSEAL">
+            <English>Allow Chest Seal self treatment</English>
+        </Key>
         <Key ID="STR_kat_breathing_SETTING_STABLE_SPO2">
             <English>Stable SpO2 value to gain consciousness</English>
             <German>Stabiler SpO2-Wert, um Bewusstsein zu erlangen</German>
