@@ -1,10 +1,12 @@
 #include "script_component.hpp"
 /*
- * Author: Glowbal
- * Calculate the total blood loss of a unit.
+ * Author: 1LT.Mazinski.H
+ * Adds the alpha factor value from medications to the patient.
  *
  * Arguments:
- * 0: The Unit <OBJECT>
+ * 0: Medic (not used) <OBJECT>
+ * 1: Patient <OBJECT>
+ * 2: Alpha Value <NUMBER>
  *
  * Return Value:
  * Total blood loss of unit (litres/second) <NUMBER>
