@@ -507,78 +507,103 @@
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_DescShort">
             <English>Handheld Ultrasound</English>
+            <Japanese>手持ち式超音波スキャナー</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_DescUse">
             <English>Used to assess internal injuries</English>
+            <Japanese>内損傷の評定に使用</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Use">
             <English>Conduct Ultrasound Assessment</English>
+            <Japanese>超音波評定を実施</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Action">
             <English>Assessing</English>
+            <Japanese>評定中</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Airway">
             <English>Airway Status: %1</English>
+            <Japanese>気道の状態: %1</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Thorasic">
             <English>Lung Status: %1</English>
+            <Japanese>肺の状態: %1</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Cardiac">
             <English>Cardiac Status: %1</English>
+            <Japanese>心臓の状態: %1</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Airway_Normal">
             <English>Normal</English>
+            <Japanese>正常</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Thorasic_PTX">
             <English>Pneumothorax</English>
+            <Japanese>気胸</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Thorasic_Hemo">
             <English>Hemopneumothorax</English>
+            <Japanese>血気胸</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Thorasic_Tension">
             <English>Tension Pneumothorax</English>
+            <Japanese>緊張性気胸</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Cardiac_Shockable">
             <English>Arrest - Shockable</English>
+            <Japanese>心停止 - ショック可能</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Ultra_Cardiac_Unshockable">
             <English>Arrest - Not Shockable</English>
+            <Japanese>心停止 - ショック不要</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Reboa_DescShort">
             <English>REBOA Unit</English>
+            <Japanese>REBOAユニット</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Reboa_DescUse">
             <English>Used to block the aorta and prevent bleeding below the heart</English>
+            <Japanese>大動脈を遮断し、心臓より下の出血を防ぐために使用される</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Reboa_Use">
             <English>Place REBOA Unit</English>
+            <Japanese>REBOAユニットを挿入</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Reboa_Action">
             <English>Placing</English>
+            <Japanese>挿入中</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Reboa_Status">
             <English>REBOA</English>
+            <Japanese>REBOA</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Reboa_Deep_Use">
             <English>Advance REBOA Unit</English>
+            <Japanese>REBOAユニットを進める</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Reboa_Deep_Action">
             <English>Advancing</English>
+            <Japanese>進めています</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Reboa_Remove_Use">
             <English>Remove REBOA Unit</English>
+            <Japanese>REBOAユニットを抜去</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Reboa_Remove_Action">
             <English>Removing</English>
+            <Japanese>抜去中</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Pericardial_Tap_Use">
             <English>Pericardial Tap</English>
+            <Japanese>心膜穿刺術</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Pericardial_Tap_Action">
             <English>Performing</English>
+            <Japanese>施術中</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Pericardial_Tap_Log">
             <English>%1 performed a pericardial tap</English>
+            <Japanese>%1 が心膜穿刺を施術</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_KIDNEY_ACTION">
             <English>Kidney damage/failure</English>
