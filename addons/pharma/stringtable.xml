@@ -649,6 +649,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_PhenylAuto_Box_Display">
             <English>Phenylephrine Autoinjector</English>
+            <Japanese>フェニレフリン自動注射器</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_Take_Phenyl_Auto">
             <English>Inject Phenylephrine</English>
